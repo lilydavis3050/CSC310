@@ -1,0 +1,2 @@
+A2 - P2 Splay Trees Assignment Lily Davis
+Creates a splay tree with Insert, Delete, and Search Functions as well as stops recursions after a specific depth and rotates only if child weight is greater than or equal to parent weight.
